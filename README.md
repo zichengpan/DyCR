@@ -56,8 +56,6 @@ If you find our code or paper useful, please give us a citation.
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning}, 
   year={2024},
-  volume={},
-  number={},
   pages={1-14},
   doi={10.1109/TNNLS.2024.3394844}
 }
