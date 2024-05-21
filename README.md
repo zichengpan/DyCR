@@ -48,6 +48,20 @@ data
     python train.py -projec dycr -dataset PlantVillage -gamma 0.1 -lr_base 0.1 -decay 0.0005 -epochs_base 200 -schedule Cosine -gpu 0,1,2,3 -temperature 16 -batch_size_base 32
     ```
 
+## Citation
+If you find our code or paper useful, please give us a citation.
+```bash
+@ARTICLE{10531293,
+  author={Pan, Zicheng and Yu, Xiaohan and Zhang, Miaohua and Zhang, Weichuan and Gao, Yongsheng},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={DyCR: A Dynamic Clustering and Recovering Network for Few-Shot Class-Incremental Learning}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TNNLS.2024.3394844}
+}
+```
 
 ## Acknowledgment
 We thank the following repos for providing helpful components/functions in our work.
